@@ -1,2 +1,2 @@
 # greentech
-Algoritmika Modul-5 project
+Greentech diploma work
