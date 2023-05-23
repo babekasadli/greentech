@@ -173,7 +173,7 @@ div#preloader {
   width: 100%;
   height: 100%;
   overflow: visible;
-  background: #fff url("../img/preloader.gif") no-repeat center center;
+  background: #ffffff url("../img/preloader2.gif") no-repeat center center;
 }
 
 ::-moz-selection {
@@ -240,6 +240,10 @@ div#preloader {
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.8);
   height: 64px;
+}
+
+#header .logo{
+  display: flex;
 }
 
 #header .logo h1 {
